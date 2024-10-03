@@ -11,7 +11,7 @@ This Flutter-based project provides a secure and user-friendly experience for Ba
 - 
 ### Account Access
 - View and manage your Banorte bank card details securely
-- 
+  
 ### Financial Goals
 - Set personal, achievable financial goals
 - Challenge friends to meet goals faster
